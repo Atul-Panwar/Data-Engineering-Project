@@ -1,2 +1,2 @@
-# Data-Engineering-Project
-Projects on Data Engineering
+# tokyo-olympic-azure-data-engineering-project
+tokyo-olympic-azure-data-engineering-project
