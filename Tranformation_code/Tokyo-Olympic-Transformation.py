@@ -4,7 +4,7 @@ from pyspark.sql.types import IntegerType, DoubleType, BooleanType, DateType
 
 # COMMAND ----------
 
-
+#changes o new branch
 configs = {
 "fs.azure.account.auth.type": "OAuth",
 "fs.azure.account.oauth.provider.type": "org.apache.hadoop.fs.azurebfs.oauth2.ClientCredsTokenProvider",
